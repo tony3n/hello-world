@@ -1,3 +1,3 @@
 # hello-world
 
-This is my first eddit to a file using github.
+This is my first edit to a file using github.
